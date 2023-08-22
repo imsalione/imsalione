@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=28&duration=3000&pause=700&color=DA6959&width=435&lines=Hey+I'm+Saleh;A+Data+Analyst;And+Interested+In+Data+Science;Nice+to+meet+you+%3A))](https://git.io/typing-svg)
-
+# Data Analyst | Data Science Enthusiast
 
 Hello! I'm saleh abedinezhad, a passionate data analyst with a love for uncovering insights from complex datasets. My journey in the realm of data began during my studies in Computer Science, where I was captivated by the power of data-driven decision-making.
 
