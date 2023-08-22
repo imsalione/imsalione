@@ -16,6 +16,7 @@ I specialize in transforming raw data into actionable insights, utilizing a comb
 - SQL and Database Management
 - Python Programming
 - Excel and Data Manipulation
+- Using artificial intelligence (chat-gpt etc.) tools to learn and solve problems
 
 ## Let's Connect!
 
