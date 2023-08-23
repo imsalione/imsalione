@@ -16,7 +16,7 @@ I specialize in transforming raw data into actionable insights, utilizing a comb
 - SQL and Database Management
 - Python Programming
 - Excel and Data Manipulation
-- Using artificial intelligence tools to learn and solve problems (Chat-GPT, Snyk, AlphaCode etc.)
+- Using AI tools to learn and solve problems (Chat-GPT, Snyk, AlphaCode etc.)
 
 ## Let's Connect!
 
