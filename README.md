@@ -1,12 +1,12 @@
-# Data Analyst | And Interested In Data Science
+## Data Analyst | And Interested In Data Science
 
 Hello! I'm saleh abedinezhad, a passionate data analyst with a love for uncovering insights from complex datasets. My journey in the realm of data began during my studies in Computer Science, where I was captivated by the power of data-driven decision-making.
 
-## About Me
+### About Me
 
 I specialize in transforming raw data into actionable insights, utilizing a combination of analytical skills and programming expertise. With a strong foundation in statistics and machine learning, I thrive in exploring data, identifying patterns, and extracting valuable information that drives informed business decisions.
 
-## Skills
+### Skills
 
 - Data Cleaning and Preprocessing
 - Exploratory Data Analysis (EDA)
@@ -18,7 +18,7 @@ I specialize in transforming raw data into actionable insights, utilizing a comb
 - Excel and Data Manipulation
 - Using AI tools to learn and solve problems (Chat-GPT, Snyk, AlphaCode etc.)
 
-## Let's Connect!
+### Let's Connect!
 
 I'm always excited to collaborate on data-centric projects, discuss new techniques, or simply connect with fellow data enthusiasts. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/imsalione/) or email me at salehabedinezhad@gmail.com.
 
