@@ -1,4 +1,4 @@
-##Data Analyst | And Interested In Data Science
+## Data Analyst | And Interested In Data Science
 
 Hello! I'm saleh abedinezhad, a passionate data analyst with a love for uncovering insights from complex datasets. My journey in the realm of data began during my studies in Computer Science, where I was captivated by the power of data-driven decision-making.
 
