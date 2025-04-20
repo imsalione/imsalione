@@ -1,56 +1,57 @@
 # Saleh Abedinezhad | Data Analyst & Aspiring Data Scientist
 
-Hello! I'm **Saleh Abedinezhad**, a passionate data analyst with a software engineering background and a deep interest in turning raw data into clear, actionable insights. My journey into data began during my university years, and it has evolved into a strong focus on **machine learning**, **data automation**, and **data-driven decision making**.
+Hello! I'm **Saleh Abedinezhad**, a passionate data analyst with a background in software engineering and a strong interest in transforming raw data into actionable insights. My journey into data began during my university studies, and over time, it has expanded into working with **machine learning**, **data automation**, and **ETL pipelines**.
 
-With a solid foundation in both programming and statistics, I enjoy bridging the gap between technical solutions and real-world problems—especially through clean code, efficient workflows, and meaningful visualizations.
+With a focus on real-world problem-solving, I love creating efficient workflows that extract, process, and present data in meaningful ways—whether through dashboards, reports, or predictive models.
 
 ---
 
 ## 👨‍💻 About Me
 
-I specialize in designing and implementing data pipelines, cleaning and transforming datasets, and extracting insights that help drive informed decisions. Recently, my focus has been on **database management**, **SQL automation**, and **developing tools for efficient reporting**.
+I specialize in building **end-to-end data pipelines**, particularly for **ETL workflows**, where I extract data from databases, transform it with business logic, and load it into structured formats for analysis or reporting. I use Python and SQL extensively to automate data handling, ensuring high-quality results with reproducible code.
 
-I'm continuously expanding my knowledge in **Python**, **machine learning**, and **AI-powered development**, and I love experimenting with new technologies to streamline and improve data workflows.
+I’m also passionate about using **AI tools** to speed up development and unlock new capabilities in the data science lifecycle.
 
 ### 🔍 Core Skills:
-- **Data Cleaning & Preprocessing**: Handling messy data with precision
-- **SQL & Database Management**: Writing optimized queries, managing MySQL/SQL Server databases
-- **Automated Reporting Pipelines**: Exporting reports (e.g., Excel) from dynamic queries
-- **Exploratory Data Analysis (EDA)**: Identifying trends and insights from data
-- **Statistical Analysis & Hypothesis Testing**
-- **Machine Learning**: Building predictive models and evaluating performance
-- **Data Visualization**: Communicating findings using Matplotlib & Seaborn
-- **Python Programming**: Clean, modular, and well-documented scripting
-- **Excel & Pivot Tables**: Complex data manipulations and reports
-- **AI Tools**: Enhancing productivity using ChatGPT, AlphaCode, and more
+- **ETL Pipelines**: Designing and implementing data extraction, transformation, and loading processes
+- **Data Cleaning & Preprocessing**: Making data analysis-ready with Pandas & NumPy
+- **SQL & Database Management**: Writing complex queries and optimizing performance (MySQL, SQL Server)
+- **Automated Reporting**: Exporting query results to Excel via Python
+- **Exploratory Data Analysis (EDA)**: Revealing patterns and outliers
+- **Machine Learning**: Predictive modeling and evaluation
+- **Data Visualization**: Communicating insights through charts and plots (Matplotlib, Seaborn)
+- **Python Programming**: Clean, modular, and scalable code
+- **Excel**: Data manipulation, dashboards, and advanced formulas
+- **AI Tools**: Using ChatGPT, AlphaCode, and others for faster prototyping
 
 ---
 
 ## 🚀 Current Projects
 
-- 🔬 **Diabetes Risk Factors (ML)**: Predicting diabetes likelihood using various clinical and demographic features.
-- 📊 **Database Reporting System**: Designing a flexible pipeline to query SQL Server databases and export analytics reports as Excel files.
-- ⚙️ **Data Automation Toolkit**: Developing Python modules for cleaning, processing, and enriching tabular datasets using customizable logic.
+- 🔬 **Diabetes Risk Factors (ML)**: Analyzing clinical data to predict diabetes probability.
+- 📊 **Database Reporting System**: Building an automated reporting system using SQL + Python + Excel export.
+- ⚙️ **ETL & Data Automation**: Developing modular ETL scripts to extract data from SQL Server, apply transformations, and generate final outputs.
+- 🧩 **Custom Data Utilities**: Creating Python utilities to search, fill, or clean DataFrame columns based on custom rules.
 
 ---
 
 ## 📚 Learning & Development
 
-In addition to hands-on experience, I actively study and practice:
-- **Advanced SQL** and performance optimization
-- **Deep Learning & Neural Networks**
-- **Time Series Forecasting**
-- **Backend development with Django for data platforms**
+Currently focused on:
+- Advanced **ETL strategies** and orchestration
+- **Query optimization** and complex SQL logic
+- **Deep Learning** concepts and frameworks
+- **Backend tools** for deploying data applications (e.g., Django)
 
 ---
 
 ## 🤝 Let’s Connect!
 
-I'm always open to collaborating on data-driven projects, solving tough problems with code, and exchanging knowledge in the analytics and ML space.
+If you're working on a data project or want to brainstorm ideas, feel free to reach out—I'm always open to collaborating or learning together!
 
 - 📧 Email: [salehabedinezhad@gmail.com](mailto:salehabedinezhad@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/imsalione](https://www.linkedin.com/in/imsalione/)  
 - 💼 GitHub: [github.com/imsalione](https://github.com/imsalione)
 - 🌐 Website: [imsalione.ir](https://imsalione.ir)
 
-Let’s grow together in the exciting world of data! 🚀
+Let's keep pushing the boundaries of what's possible with data! 📊✨
